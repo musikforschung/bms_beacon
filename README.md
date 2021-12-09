@@ -26,7 +26,7 @@ For more information about BEACON please visit (BEACON link dump format)[https:/
 BEACON link dumps der Bibliographie des Musikschrifttums BMS online
 
 Die Bibliographie des Musikschrifttums (BMS online) verzeichnet internationale, wissenschaftliche Publikationen zur Musik. Dabei werden Bücher, Aufsätze und Rezensionen aus Zeitschriften, Festschriften, Kongreßberichten, Jahrbüchern, Sammelbänden und kritischen Berichten musikalischer Editionen berücksichtigt. Die Dateien enthalten BEACON link dumps mit GND-IDs zu denen Publikationen in BMS online vorhanden sind. BMS online nutzt die GND für die formale und sachliche Erschließung von Literatur. Die Normdaten haben dort jedoch abweichende Identifikatoren (BMS-ID).
-Weitere Informationen zu BEACON gibt es auf (BEACON link dump format)[https://www.gbv.github.io/beaconspec/beacon.html].
+Weitere Informationen zu BEACON gibt es auf (BEACON link dump format)[https://www.gbv.github.io/beaconspec/beacon.html]/.
 
 # Beschreibung der Dateien
 
