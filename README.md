@@ -19,7 +19,7 @@ For more information about BEACON please visit [BEACON link dump format](https:/
 
 <details open>
 
-<summary>DE Deutsche Version>/summary>
+<summary>DE Deutsche Version</summary>
 
 # BMS_BEACON
 
