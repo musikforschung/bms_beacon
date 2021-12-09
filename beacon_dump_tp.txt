@@ -7,8 +7,8 @@
 #CONTACT: Bibliographie des Musikschrifttums <bms@sim.spk-berlin.de>												
 #INSTITUTION: Staatliches Institut für Musikforschung Preußischer Kulturbesitz												
 #NAME: Bibliographie des Musikschrifttums BMS online												
-#MESSAGE: Publikationen von und über (Name) in der Bibliographie des Musikschrifttums												
-#DESCRIPTION: Die Bibliographie des Musikschrifttums (BMS) verzeichnet internationale, wissenschaftliche Publikationen zur Musik. Dabei werden Bücher, Aufsätze und Rezensionen aus Zeitschriften, Festschriften, Kongreßberichten, Jahrbüchern, Sammelbänden und kritischen Berichten musikalischer Editionen berücksichtigt. In der Liste sind die GND-IDs (Tp1-Tp4) und die zugehörigen BMS-IDs von Personen verzeichnet, zu denen Literatur in der BMS nachgewiesen sind. Dabei kann die Person sowohl Autor als auch Thema der jeweiligen Publikation sein.											
+#MESSAGE: Literatur von und über (Name) in der Bibliographie des Musikschrifttums / Literature by and about (name) in the bibliography of music literature											
+#DESCRIPTION: Die Bibliographie des Musikschrifttums (BMS online) verzeichnet internationale, wissenschaftliche Publikationen zur Musik. Dabei werden Bücher, Aufsätze und Rezensionen aus Zeitschriften, Festschriften, Kongreßberichten, Jahrbüchern, Sammelbänden und kritischen Berichten musikalischer Editionen berücksichtigt. In der Liste sind die GND-IDs (Tp1-Tp4) und die zugehörigen BMS-IDs von Personen verzeichnet, zu denen Literatur in der BMS nachgewiesen sind. Dabei kann die Person sowohl Autor als auch Thema der jeweiligen Publikation sein. / The Bibliography of Music Literature (BMS online) lists international, scholarly publications on music. Books, essays and reviews from journals, festschrifts, congress reports, yearbooks, anthologies and critical reports of musical editions are considered. The list contains the GND-IDs (Tp1-Tp4) and the corresponding BMS-IDs of persons for whom literature is indexed in the BMS. The person can be both author and subject of the respective publication.				
 #TIMESTAMP: 2021-12-08
 #UPDATE: yearly												
 
