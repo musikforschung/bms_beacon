@@ -2,7 +2,7 @@
 #PREFIX: https://d-nb.info/gnd/												
 #TARGET: https://www.musikbibliographie.de/REL?PPN=												
 #VERSION: 0.1												
-#FEED: https://github.com/musikforschung/BMS_Beacon/blob/main/beacon_dump_tp.txt											
+#FEED: https://github.com/musikforschung/BMS_Beacon/blob/main/beacon_dump_tp.txt									
 #LINK: https://www.w3.org/2000/01/rdf-schema#seeAlso												
 #CONTACT: Bibliographie des Musikschrifttums <bms@sim.spk-berlin.de>												
 #INSTITUTION: Staatliches Institut für Musikforschung Preußischer Kulturbesitz												
