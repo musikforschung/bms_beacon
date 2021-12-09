@@ -11,7 +11,7 @@ For more information about BEACON please visit [BEACON link dump format](https:/
 
 # Files description
 
-* [beacon_dump_tp](https://www.github.com/musikforschung/BMS_BEACON/) contains the GND-IDs (Tp1-Tp4) and the corresponding BMS-IDs of persons for whom literature is indexed in the BMS. The person can be both author and subject of the respective publication.
+* [beacon_dump_tp](https://www.github.com/musikforschung/BMS_Beacon/blob/main/beacon_dump_tp.txt) contains the GND-IDs (Tp1-Tp4) and the corresponding BMS-IDs of persons for whom literature is indexed in the BMS. The person can be both author and subject of the respective publication.
 
 </details>
 
@@ -30,6 +30,6 @@ Weitere Informationen zu BEACON gibt es auf [BEACON link dump format](https://ww
 
 # Beschreibung der Dateien
 
-* [beacon_dump_tp](https://www.github.com/musikforschung/BMS_BEACON/) enthält die GND-IDs (Tp1-Tp4) und die zugehörigen BMS-IDs von Personen, zu denen Literatur in der BMS nachgewiesen sind. Dabei kann die Person sowohl Autor als auch Thema der jeweiligen Publikation sein.
+* [beacon_dump_tp](https://www.github.com/musikforschung/BMS_Beacon/blob/main/beacon_dump_tp.txt) enthält die GND-IDs (Tp1-Tp4) und die zugehörigen BMS-IDs von Personen, zu denen Literatur in der BMS nachgewiesen sind. Dabei kann die Person sowohl Autor als auch Thema der jeweiligen Publikation sein.
 
 </details>	
