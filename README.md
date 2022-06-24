@@ -19,7 +19,7 @@ For more information about BEACON please visit [BEACON link dump format](https:/
 
 # Licence
 
-CC0 4.0 Universal
+CC0 1.0 Universal
 
 </details>
 
@@ -46,6 +46,6 @@ Weitere Informationen zu BEACON gibt es auf [BEACON link dump format](https://gb
 
 # Lizenz
 
-CC0 4.0 Universal
+CC0 1.0 Universal
 
 </details>	
