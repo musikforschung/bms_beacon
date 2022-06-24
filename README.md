@@ -19,6 +19,8 @@ For more information about BEACON please visit [BEACON link dump format](https:/
 
 # Licence
 
+Copyright © 2022 Stiftung Preußischer Kulturbesitz - Staatliches Institut für Musikforschung
+
 CC0 1.0 Universal
 
 </details>
@@ -45,6 +47,8 @@ Weitere Informationen zu BEACON gibt es auf [BEACON link dump format](https://gb
 * René Wallor, wallor at sim.spk-berlin.de
 
 # Lizenz
+
+Copyright © 2022 Stiftung Preußischer Kulturbesitz - Staatliches Institut für Musikforschung
 
 CC0 1.0 Universal
 
