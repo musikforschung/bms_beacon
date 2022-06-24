@@ -13,6 +13,14 @@ For more information about BEACON please visit [BEACON link dump format](https:/
 
 * [beacon_dump_tp](https://www.github.com/musikforschung/BMS_Beacon/blob/main/beacon_dump_tp.txt) contains the GND-IDs (Tp1-Tp4) and the corresponding BMS-IDs of persons for whom literature is indexed in the BMS. The person can be both author and subject of the respective publication.
 
+# Author
+
+* René Wallor, wallor at sim.spk-berlin.de
+
+# Licence
+
+CC0 V4.0 Universal
+
 </details>
 
 ---
@@ -31,5 +39,13 @@ Weitere Informationen zu BEACON gibt es auf [BEACON link dump format](https://gb
 # Beschreibung der Dateien
 
 * [beacon_dump_tp](https://www.github.com/musikforschung/BMS_Beacon/blob/main/beacon_dump_tp.txt) enthält die GND-IDs (Tp1-Tp4) und die zugehörigen BMS-IDs von Personen, zu denen Literatur in der BMS nachgewiesen sind. Dabei kann die Person sowohl Autor als auch Thema der jeweiligen Publikation sein.
+
+# Autor
+
+* René Wallor, wallor at sim.spk-berlin.de
+
+# Lizenz
+
+CC0 V4.0 Universal
 
 </details>	
