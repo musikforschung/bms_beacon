@@ -1,3 +1,18 @@
+#FORMAT: BEACON												
+#PREFIX: https://d-nb.info/gnd/												
+#TARGET: https://www.musikbibliographie.de/REL?PPN=												
+#VERSION: 0.1												
+#FEED: https://github.com/musikforschung/BMS_Beacon/blob/main/dmp/beacon_dump_tu_wis.txt											
+#LINK: https://www.w3.org/2000/01/rdf-schema#seeAlso												
+#CONTACT: Bibliographie des Musikschrifttums <bms@sim.spk-berlin.de>												
+#INSTITUTION: Staatliches Institut für Musikforschung Preußischer Kulturbesitz												
+#NAME: Bibliographie des Musikschrifttums BMS online												
+#MESSAGE: Publikationen über (Name Musikgruppe/Musikensemble) in der Bibliographie des Musikschrifttums | Publications about (music group/ensemble) in the Bibliographie des Musikschrifttums											
+#DESCRIPTION: Die Bibliographie des Musikschrifttums (BMS online) verzeichnet internationale, wissenschaftliche Publikationen zur Musik. Dabei werden Bücher, Aufsätze und Rezensionen aus Zeitschriften, Festschriften, Kongreßberichten, Jahrbüchern, Sammelbänden und kritischen Berichten musikalischer Editionen berücksichtigt. In der vorliegenden Datei sind die GND-IDs (Tb1-Tb4) und die zugehörigen BMS-IDs von Musikgruppen und Musikensembles verzeichnet, zu denen Literatur in der BMS nachgewiesen sind. | The Bibliographie des Musikschrifttums (BMS online) lists international, scholarly publications on music. Books, essays and reviews from journals, festschrifts, proceedings, yearbooks, anthologies and critical reports of musical editions are taken into account. This file contains the GND-IDs (Tb1-Tb4) and the corresponding BMS-IDs of music groups and music ensembles for which literature is indexed in the BMS.			
+#TIMESTAMP: 2022-06-08
+#UPDATE: yearly				
+
+
 1027522815||008095264
 1260773043||008095094
 1124410015||008090904
