@@ -1,22 +1,37 @@
 #FORMAT: BEACON												
 #PREFIX: https://d-nb.info/gnd/												
 #TARGET: https://www.musikbibliographie.de/REL?PPN=												
-#VERSION: 0.1												
 #FEED: https://github.com/musikforschung/BMS_Beacon/blob/main/dmp/beacon_dump_tu_wis.txt											
 #LINK: https://www.w3.org/2000/01/rdf-schema#seeAlso												
 #CONTACT: Bibliographie des Musikschrifttums <bms@sim.spk-berlin.de>												
 #INSTITUTION: Staatliches Institut für Musikforschung Preußischer Kulturbesitz												
 #NAME: Bibliographie des Musikschrifttums BMS online												
-#MESSAGE: Publikationen über (Name der Musikhandschrift) in der Bibliographie des Musikschrifttums | Publications about (name of music manuscript) in the Bibliographie des Musikschrifttums											
+#MESSAGE: Publikationen über (Name Musikhandschrift) in der Bibliographie des Musikschrifttums | Publications about (name of music manuscript) in the Bibliographie des Musikschrifttums											
 #DESCRIPTION: Die Bibliographie des Musikschrifttums (BMS online) verzeichnet internationale, wissenschaftliche Publikationen zur Musik. Dabei werden Bücher, Aufsätze und Rezensionen aus Zeitschriften, Festschriften, Kongreßberichten, Jahrbüchern, Sammelbänden und kritischen Berichten musikalischer Editionen berücksichtigt. In der vorliegenden Datei sind die GND-IDs (Tu1-Tu4) und die zugehörigen BMS-IDs von Musikhandschriften verzeichnet, zu denen Literatur in der BMS nachgewiesen sind. | The Bibliographie des Musikschrifttums (BMS online) lists international, scholarly publications on music. Books, essays and reviews from journals, festschrifts, proceedings, yearbooks, anthologies and critical reports of musical editions are taken into account. This file contains the GND-IDs (Tu1-Tu4) and the corresponding BMS-IDs of music manuscripts for which literature is indexed in the BMS.			
-#TIMESTAMP: 2022-06-08
-#UPDATE: yearly				
+#TIMESTAMP: 2025-11-28
+#UPDATE: weekly
 
 
+
+4784817-0||009269495
+4433219-1||00926874X
+4804527-5||009250816
+4805046-5||009167110
+7720311-2||009158669
+4841314-8||008835780
+7852015-0||00882374X
+1122149735||008751803
+1289425612||008562806
+4623885-2||008451575
+1282029290||008446946
+1282030841||008446938
+1059900106||008324964
+4283061-8||008092133
+1255666277||008045704
 1228580359||008033749
 4391028-2||007937245
 1240935536||007916752
-4740607-0||007902042
+300560648||007902042
 1241136785||007893868
 1241136157||007893841
 7694787-7||007892268
@@ -26,12 +41,14 @@
 4178479-0||007872488
 7857351-8||007864213
 7705276-6||007745753
-1207788120||007727291
+1207788120||007727674
 4451235-1||007690142
 4262477-0||00767998X
 4241398-9||007572255
 113069027X||007518609
 7590319-2||007495242
+4135514-3||007400977
+4217270-6||007362609
 4467003-5||007347723
 4363741-3||007347596
 7764434-7||007317689
@@ -50,6 +67,7 @@
 7575963-9||006371663
 7549821-2||006371485
 7549819-4||006371469
+4121231-9||006359493
 1027337155||006350925
 4295412-5||006310583
 4798844-7||006285058
@@ -61,8 +79,10 @@
 1052163262||006101771
 4205032-7||006055044
 1097293580||006040349
+4199489-9||006018254
 1076108709||005905141
 1073146049||005856132
+1047761874||005769205
 4330912-4||005701570
 4279277-0||005684579
 1052918131||005429021
@@ -73,6 +93,7 @@
 4405141-4||005224446
 1037340000||005222508
 7745735-3||005216540
+1036992209||005212219
 1023747669||005208734
 4811436-4||005178827
 1032524413||005127629
@@ -82,13 +103,14 @@
 7718879-2||00500750X
 4842141-8||004960181
 4467401-6||004957636
+4159367-4||004712730
 7862951-2||004594983
-4154491-2||004594916
 4568667-1||004593782
 4290207-1||004581806
 4135049-2||004570308
 7598076-9||004506693
 7846295-2||004492471
+4157646-9||004471628
 7825874-1||004467574
 4698090-8||004453352
 4259147-8||004406524
@@ -100,10 +122,12 @@
 4737390-8||004208595
 7687748-6||004186567
 7719183-3||004012968
+4377726-0||00401295X
 4170507-5||003998274
 7693768-9||003948455
 7590071-3||003910938
 7541980-4||003901858
+7690544-5||003754324
 7690546-9||003751015
 7690547-0||003750930
 7690540-8||003750787
@@ -163,13 +187,13 @@
 7643768-1||003063887
 4301465-3||003045706
 7638477-9||003013529
-4511152-2||00298847X
 7566031-3||002971402
 4168007-8||002957604
 7629889-9||002947099
 7625922-5||002908786
 4708013-9||002905159
 4361732-3||002887673
+4734389-8||002862395
 7619539-9||00285130X
 4162730-1||002840766
 4646433-5||002787083
@@ -180,6 +204,7 @@
 4804498-2||002579294
 4479491-5||002569795
 4412673-6||002483939
+4129597-3||002436493
 4429803-1||002423693
 4704350-7||002410168
 7588315-6||002382075
