@@ -12,14 +12,14 @@ Date=$(date '+%Y-%m-%d')
 #sed -i "s/TIMESTAMP: [0-9]\+-[0-9]\+-[0-9]\+/TIMESTAMP: $Date/g" ./dmp/beacon_tb.txt &&
 #catmandu convert SRU --base 'http://sru.k10plus.de/bmsonline!rec=2' --recordSchema picaxml --parser picaxml --query '(pica.bbg=Tbv1 and pica.tbs=s and pica.tbs=m and pica.ent=kim)' to Text --fields GND_ID,PPN --field_sep '||' --fix ./fix/beacon_sru_map.fix >> ./dmp/beacon_tb.txt &&
 # tu_wis
-cp ./template/beacon_tuwis.txt ./dmp/ &&
-sed -i "s/TIMESTAMP: [0-9]\+-[0-9]\+-[0-9]\+/TIMESTAMP: $Date/g" ./dmp/beacon_tuwis.txt &&
-catmandu convert SRU --base 'http://sru.k10plus.de/bmsonline!rec=2' --recordSchema picaxml --parser picaxml --query '(pica.bbg=Tuv1 and pica.ent=wis)'to Text --fields GND_ID,PPN --field_sep '||' --fix ./fix/beacon_sru_map.fix >> ./dmp/beacon_tuwis.txt &&
+cp $HOME/bms_beacon/template/beacon_tuwis.txt $HOME/bms_beacon/dmp/ &&
+sed -i "s/TIMESTAMP: [0-9]\+-[0-9]\+-[0-9]\+/TIMESTAMP: $Date/g" $HOME/bms_beacon/dmp/beacon_tuwis.txt &&
+catmandu convert SRU --base 'http://sru.k10plus.de/bmsonline!rec=2' --recordSchema picaxml --parser picaxml --query '(pica.bbg=Tuv1 and pica.ent=wis)'to Text --fields GND_ID,PPN --field_sep '||' --fix $HOME/bms_beacon/fix/beacon_sru_map.fix >> $HOME/bms_beacon/dmp/beacon_tuwis.txt &&
 # tu_wim
 #cp ./template/beacon_tuwim.txt ./dmp/ &&
 #sed -i "s/TIMESTAMP: [0-9]\+-[0-9]\+-[0-9]\+/TIMESTAMP: $Date/g" ./dmp/beacon_tuwim.txt &&
 #catmandu convert SRU --base 'http://sru.k10plus.de/bmsonline!rec=2' --recordSchema picaxml --parser picaxml --query '(pica.bbg=Tuv1 and pica.tbs=s and pica.tbs=m and pica.ent=wim)' to Text --fields GND_ID,PPN --field_sep '||' --fix ./fix/beacon_sru_map.fix >> ./dmp/beacon_tuwim.txt &&
 
-git add ./dmp/beacon_tp.txt ./dmp/beacon_tb.txt ./dmp/beacon_tuwis.txt ./dmp/beacon_tuwim.txt &&
+git add $HOME/bms_beacon/dmp/beacon_tp.txt $HOME/bms_beacon/dmp/beacon_tb.txt $HOME/bms_beacon/dmp/beacon_tuwis.txt $HOME/bms_beacon/dmp/beacon_tuwim.txt &&
 git commit -am "Update" &&
 git push -u origin
