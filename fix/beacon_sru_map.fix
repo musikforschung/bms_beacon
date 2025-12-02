@@ -2,10 +2,10 @@
 #http://sru.k10plus.de/bmsonline!rec=2?version=1.1&operation=searchRetrieve&query=pica.bbg%3DTuv1+and+pica.ent%3Dwis&maximumRecords=10&recordSchema=picaxml
 
 pica_map(003@$0,PPN)
-pica_map(007K$0,GND_ID)
+lookup(PPN,'./dictionary/beacon_dictionary.txt')
 
 remove(record)
 
-select exists(PPN)
+select any_match(PPN,'\|\|')
 
 sleep(500,MILLISECONDS)
