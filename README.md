@@ -24,9 +24,9 @@ For more information about BEACON please visit [BEACON link dump format](https:/
 
 [shell](https://github.com/musikforschung/bms_beacon/tree/main/shell)
 
-* [bms_beacon.sh](https://github.com/musikforschung/bms_beacon/blob/main/shell/bms_beacon.sh) Shell script for creating and uploading the individual beacon files.
+* [bms_beacon.sh](https://github.com/musikforschung/bms_beacon/blob/main/shell/bms_beacon.sh) Shell script for creating and uploading the individual BEACON files.
 
-[template](https://github.com/musikforschung/bms_beacon/tree/main/template) Templates of the individual beacon files.
+[template](https://github.com/musikforschung/bms_beacon/tree/main/template) Templates of the individual BEACON files.
 
 # Author
 
@@ -68,9 +68,9 @@ Weitere Informationen zu BEACON gibt es auf [BEACON link dump format](https://gb
 
 [shell](https://github.com/musikforschung/bms_beacon/tree/main/shell)
 
-* [bms_beacon.sh](https://github.com/musikforschung/bms_beacon/blob/main/shell/bms_beacon.sh) Shell-Skript zum Erstellen und Hochladen der einzelnen Beacon-Dateien.
+* [bms_beacon.sh](https://github.com/musikforschung/bms_beacon/blob/main/shell/bms_beacon.sh) Shell-Skript zum Erstellen und Hochladen der einzelnen BEACON-Dateien.
 
-[template](https://github.com/musikforschung/bms_beacon/tree/main/template) Vorlagen der einzelnen Beacon-Dateien.
+[template](https://github.com/musikforschung/bms_beacon/tree/main/template) Vorlagen der einzelnen BEACON-Dateien.
 
 # Autor
 
