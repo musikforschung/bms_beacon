@@ -18,15 +18,15 @@ For more information about BEACON please visit [BEACON link dump format](https:/
 * [beacon_tuwim.txt](https://www.github.com/musikforschung/bms_beacon/blob/main/dmp/beacon_tuwim.txt) contains the GND-IDs (Tu1-Tu4) and the corresponding BMS-IDs of musical works for which literature is indexed in BMS online.
 * [beacon_tuwis.txt](https://www.github.com/musikforschung/bms_beacon/blob/main/dmp/beacon_tuwis.txt) contains the GND-IDs (Tu1-Tu4) and the corresponding BMS-IDs of music manuscripts for which literature is indexed in BMS online.
 
-[fix] (https://github.com/musikforschung/bms_beacon/tree/main/fix)
+[fix](https://github.com/musikforschung/bms_beacon/tree/main/fix)
 
-* [beacon_sru_map.fix] (https://github.com/musikforschung/bms_beacon/blob/main/fix/beacon_sru_map.fix) Catmandu fix for SRU query of authority data IDs from BMS online and checking a title link.
+* [beacon_sru_map.fix](https://github.com/musikforschung/bms_beacon/blob/main/fix/beacon_sru_map.fix) Catmandu fix for SRU query of authority data IDs from BMS online and checking a title link.
 
-[shell] (https://github.com/musikforschung/bms_beacon/tree/main/shell)
+[shell](https://github.com/musikforschung/bms_beacon/tree/main/shell)
 
-* [bms_beacon.sh] (https://github.com/musikforschung/bms_beacon/blob/main/shell/bms_beacon.sh) Shell script for creating and uploading the individual beacon files.
+* [bms_beacon.sh](https://github.com/musikforschung/bms_beacon/blob/main/shell/bms_beacon.sh) Shell script for creating and uploading the individual beacon files.
 
-[template] (https://github.com/musikforschung/bms_beacon/tree/main/template) Templates of the individual beacon files.
+[template](https://github.com/musikforschung/bms_beacon/tree/main/template) Templates of the individual beacon files.
 
 # Author
 
@@ -62,15 +62,15 @@ Weitere Informationen zu BEACON gibt es auf [BEACON link dump format](https://gb
 * [beacon_tuwim.txt](https://www.github.com/musikforschung/bms_beacon/blob/main/dmp/beacon_tuwim.txt) enthält die GND-IDs (Tu1-Tu4) und die zugehörigen BMS-IDs von Musikwerken, zu denen Literatur in BMS online nachgewiesen ist.
 * [beacon_tuwis.txt](https://www.github.com/musikforschung/bms_beacon/blob/main/dmp/beacon_tuwis.txt) enthält die GND-IDs (Tu1-Tu4) und die zugehörigen BMS-IDs von Musikhandschriften, zu denen Literatur in BMS online nachgewiesen ist.
 
-[fix] (https://github.com/musikforschung/bms_beacon/tree/main/fix)
+[fix](https://github.com/musikforschung/bms_beacon/tree/main/fix)
 
-* [beacon_sru_map.fix] (https://github.com/musikforschung/bms_beacon/blob/main/fix/beacon_sru_map.fix) Catmandu fix zur SRU-Abfrage der Normdaten IDs aus BMS online und Prüfung einer Titelverknüpfung.
+* [beacon_sru_map.fix](https://github.com/musikforschung/bms_beacon/blob/main/fix/beacon_sru_map.fix) Catmandu fix zur SRU-Abfrage der Normdaten IDs aus BMS online und Prüfung einer Titelverknüpfung.
 
-[shell] (https://github.com/musikforschung/bms_beacon/tree/main/shell)
+[shell](https://github.com/musikforschung/bms_beacon/tree/main/shell)
 
-* [bms_beacon.sh] (https://github.com/musikforschung/bms_beacon/blob/main/shell/bms_beacon.sh) Shell-Skript zum Erstellen und Hochladen der einzelnen Beacon-Dateien.
+* [bms_beacon.sh](https://github.com/musikforschung/bms_beacon/blob/main/shell/bms_beacon.sh) Shell-Skript zum Erstellen und Hochladen der einzelnen Beacon-Dateien.
 
-[template] (https://github.com/musikforschung/bms_beacon/tree/main/template) Vorlagen der einzelnen Beacon-Dateien.
+[template](https://github.com/musikforschung/bms_beacon/tree/main/template) Vorlagen der einzelnen Beacon-Dateien.
 
 # Autor
 
