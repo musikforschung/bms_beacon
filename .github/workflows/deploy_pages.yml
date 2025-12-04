@@ -1,0 +1,40 @@
+# deploy-pages.yml
+
+name: Deploy static content to Pages
+
+on:
+  # Löst den Workflow bei jedem Push in den Branch 'main' aus
+  push:
+    branches: ["main"]
+
+  # Erlaubt Ihnen, diesen Workflow manuell auf der Actions-Registerkarte auszuführen
+  workflow_dispatch:
+
+# Erlaubt der GITHUB_TOKEN, Seiten bereitzustellen
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# Das sind die Jobs
+jobs:
+  # Ein Job zum Bauen und Bereitstellen
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          # Fügen Sie hier den Pfad zu dem Ordner an, den Sie veröffentlichen möchten
+          # In Ihrem Fall ist das './dmp'
+          path: './dmp'
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
