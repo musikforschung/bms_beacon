@@ -13,10 +13,10 @@ For more information about BEACON please visit [BEACON link dump format](https:/
 
 [dmp](https://github.com/musikforschung/bms_beacon/tree/main/dmp)
 
-* [beacon_tb.txt](https://www.github.com/musikforschung/bms_beacon/blob/main/dmp/beacon_tb.txt) contains the GND-IDs (Tb1-Tb4) and the corresponding BMS-IDs of music groups/ensembles for which literature is indexed in BMS online.
-* [beacon_tp.txt](https://www.github.com/musikforschung/bms_beacon/blob/main/dmp/beacon_tp.txt) contains the GND-IDs (Tp1-Tp4) and the corresponding BMS-IDs of persons for whom literature is indexed in BMS online. The person can be both author and subject of the respective publication.
-* [beacon_tuwim.txt](https://www.github.com/musikforschung/bms_beacon/blob/main/dmp/beacon_tuwim.txt) contains the GND-IDs (Tu1-Tu4) and the corresponding BMS-IDs of musical works for which literature is indexed in BMS online.
-* [beacon_tuwis.txt](https://www.github.com/musikforschung/bms_beacon/blob/main/dmp/beacon_tuwis.txt) contains the GND-IDs (Tu1-Tu4) and the corresponding BMS-IDs of music manuscripts for which literature is indexed in BMS online.
+* [beacon_tb.txt](https://www.github.com/musikforschung/bms_beacon/blob/main/dmp/beacon_tb.txt) contains the GND-IDs (Tb1) and the corresponding BMS-IDs of music groups/ensembles for which literature is indexed in BMS online.
+* [beacon_tp.txt](https://www.github.com/musikforschung/bms_beacon/blob/main/dmp/beacon_tp.txt) contains the GND-IDs (Tp1) and the corresponding BMS-IDs of persons for whom literature is indexed in BMS online. The person can be both author and subject of the respective publication.
+* [beacon_tuwim.txt](https://www.github.com/musikforschung/bms_beacon/blob/main/dmp/beacon_tuwim.txt) contains the GND-IDs (Tu1) and the corresponding BMS-IDs of musical works for which literature is indexed in BMS online.
+* [beacon_tuwis.txt](https://www.github.com/musikforschung/bms_beacon/blob/main/dmp/beacon_tuwis.txt) contains the GND-IDs (Tu1) and the corresponding BMS-IDs of music manuscripts for which literature is indexed in BMS online.
 
 [fix](https://github.com/musikforschung/bms_beacon/tree/main/fix)
 
@@ -57,10 +57,10 @@ Weitere Informationen zu BEACON gibt es auf [BEACON link dump format](https://gb
 
 [dmp](https://github.com/musikforschung/bms_beacon/tree/main/dmp)
 
-* [beacon_tb.txt](https://www.github.com/musikforschung/bms_beacon/blob/main/dmp/beacon_tb.txt) enthält die GND-IDs (Tb1-Tb4) und die zugehörigen BMS-IDs von Musikgruppen/Musikensembles, zu denen Literatur in BMS online nachgewiesen ist.
-* [beacon_tp.txt](https://www.github.com/musikforschung/bms_beacon/blob/main/dmp/beacon_tp.txt) enthält die GND-IDs (Tp1-Tp4) und die zugehörigen BMS-IDs von Personen, zu denen Literatur in BMS online nachgewiesen sind. Dabei kann die Person sowohl Autor als auch Thema der jeweiligen Publikation sein.
-* [beacon_tuwim.txt](https://www.github.com/musikforschung/bms_beacon/blob/main/dmp/beacon_tuwim.txt) enthält die GND-IDs (Tu1-Tu4) und die zugehörigen BMS-IDs von Musikwerken, zu denen Literatur in BMS online nachgewiesen ist.
-* [beacon_tuwis.txt](https://www.github.com/musikforschung/bms_beacon/blob/main/dmp/beacon_tuwis.txt) enthält die GND-IDs (Tu1-Tu4) und die zugehörigen BMS-IDs von Musikhandschriften, zu denen Literatur in BMS online nachgewiesen ist.
+* [beacon_tb.txt](https://www.github.com/musikforschung/bms_beacon/blob/main/dmp/beacon_tb.txt) enthält die GND-IDs (Tb1) und die zugehörigen BMS-IDs von Musikgruppen/Musikensembles, zu denen Literatur in BMS online nachgewiesen ist.
+* [beacon_tp.txt](https://www.github.com/musikforschung/bms_beacon/blob/main/dmp/beacon_tp.txt) enthält die GND-IDs (Tp1) und die zugehörigen BMS-IDs von Personen, zu denen Literatur in BMS online nachgewiesen sind. Dabei kann die Person sowohl Autor als auch Thema der jeweiligen Publikation sein.
+* [beacon_tuwim.txt](https://www.github.com/musikforschung/bms_beacon/blob/main/dmp/beacon_tuwim.txt) enthält die GND-IDs (Tu1) und die zugehörigen BMS-IDs von Musikwerken, zu denen Literatur in BMS online nachgewiesen ist.
+* [beacon_tuwis.txt](https://www.github.com/musikforschung/bms_beacon/blob/main/dmp/beacon_tuwis.txt) enthält die GND-IDs (Tu1) und die zugehörigen BMS-IDs von Musikhandschriften, zu denen Literatur in BMS online nachgewiesen ist.
 
 [fix](https://github.com/musikforschung/bms_beacon/tree/main/fix)
 
