@@ -27,8 +27,8 @@ cp -f $HOME/bms_beacon/template/beacon_tggib.txt $HOME/bms_beacon/dmp/ &&
 sed -i "s/TIMESTAMP: [0-9]\+-[0-9]\+-[0-9]\+/TIMESTAMP: $Date/g" $HOME/bms_beacon/dmp/beacon_tggib.txt &&
 catmandu convert SRU --base 'http://sru.k10plus.de/bmsonline!rec=2' --recordSchema picaxml --parser picaxml --query '(pica.bbg=Tgv1 and pica.ent=gib)' to Text --fields PPN --field_sep '||' --fix $HOME/bms_beacon/fix/beacon_sru_map.fix >> $HOME/bms_beacon/dmp/beacon_tggib.txt &&
 
-cd $HOME/bms_beacon
+cd $HOME/bms_beacon &&
 
 git add $HOME/bms_beacon/dmp/beacon_tp.txt $HOME/bms_beacon/dmp/beacon_tb.txt $HOME/bms_beacon/dmp/beacon_tuwis.txt $HOME/bms_beacon/dmp/beacon_tuwim.txt $HOME/bms_beacon/dmp/beacon_tggib.txt &&
-git commit -am "Update" &&
+git commit -am "Cronjob update" &&
 git push -u origin
