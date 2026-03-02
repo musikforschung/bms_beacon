@@ -8,7 +8,7 @@
 #NAME: Bibliographie des Musikschrifttums BMS online												
 #MESSAGE: Publikationen von und über (Name Person) in der Bibliographie des Musikschrifttums | Literature by and about (name of person) in the Bibliographie des Musikschrifttums											
 #DESCRIPTION: Die Bibliographie des Musikschrifttums (BMS online) verzeichnet internationale, wissenschaftliche Publikationen zur Musik. Dabei werden Bücher, Aufsätze und Rezensionen aus Zeitschriften, Festschriften, Kongreßberichten, Jahrbüchern, Sammelbänden und kritischen Berichten musikalischer Editionen berücksichtigt. In der Liste sind die GND-IDs (Tp1) und die zugehörigen BMS-IDs von Personen verzeichnet, zu denen Literatur in der BMS nachgewiesen sind. Dabei kann die Person sowohl Autor als auch Thema der jeweiligen Publikation sein. | The Bibliographie des Musikschrifttums (BMS online) lists international, scholarly publications on music. Books, essays and reviews from journals, festschrifts, proceedings, yearbooks, anthologies and critical reports of musical editions are considered. This file contains the GND-IDs (Tp1) and the corresponding BMS-IDs of persons for whom literature is indexed in the BMS. The person can be both author and subject of the respective publication.				
-#TIMESTAMP: 2026-02-23
+#TIMESTAMP: 2026-03-02
 #UPDATE: weekly
 
 
@@ -1567,6 +1567,7 @@
 12065511X||00731924X
 118870319||007319207
 123163498||007319134
+1047956276||007317778
 122451406||007317751
 118831410||007317735
 118803352||00731762X
@@ -3571,6 +3572,7 @@
 116953829||005436958
 1043139028||005436516
 129389641||005436028
+1053589476||005435854
 131745891||005435765
 12907330X||005435323
 103811796||005434890
@@ -6828,6 +6830,7 @@
 128428082||003614255
 121995569||003614204
 138007292||003613836
+141632186||003613828
 116688203||003612554
 118835580||003612511
 118606360||00361249X
@@ -8776,6 +8779,7 @@
 119122227||002496070
 133811883||00249602X
 133811794||002495996
+133811360||002495961
 128593148||002495937
 133916111||002495856
 133811093||002495848

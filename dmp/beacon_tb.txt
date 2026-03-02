@@ -8,7 +8,7 @@
 #NAME: Bibliographie des Musikschrifttums BMS online												
 #MESSAGE: Publikationen über (Name Musikgruppe/Musikensemble) in der Bibliographie des Musikschrifttums | Publications about (music group/ensemble) in the Bibliographie des Musikschrifttums											
 #DESCRIPTION: Die Bibliographie des Musikschrifttums (BMS online) verzeichnet internationale, wissenschaftliche Publikationen zur Musik. Dabei werden Bücher, Aufsätze und Rezensionen aus Zeitschriften, Festschriften, Kongreßberichten, Jahrbüchern, Sammelbänden und kritischen Berichten musikalischer Editionen berücksichtigt. In der vorliegenden Datei sind die GND-IDs (Tb1) und die zugehörigen BMS-IDs von Musikgruppen und Musikensembles verzeichnet, zu denen Literatur in der BMS nachgewiesen sind. | The Bibliographie des Musikschrifttums (BMS online) lists international, scholarly publications on music. Books, essays and reviews from journals, festschrifts, proceedings, yearbooks, anthologies and critical reports of musical editions are taken into account. This file contains the GND-IDs (Tb1) and the corresponding BMS-IDs of music groups and music ensembles for which literature is indexed in the BMS.			
-#TIMESTAMP: 2026-02-23
+#TIMESTAMP: 2026-03-02
 #UPDATE: weekly
 
 
