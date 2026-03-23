@@ -8,7 +8,7 @@
 #NAME: Bibliographie des Musikschrifttums BMS online												
 #MESSAGE: Publikationen über (Name Musikwerk) in der Bibliographie des Musikschrifttums | Publications about (name of musical work) in the Bibliographie des Musikschrifttums											
 #DESCRIPTION: Die Bibliographie des Musikschrifttums (BMS online) verzeichnet internationale, wissenschaftliche Publikationen zur Musik. Dabei werden Bücher, Aufsätze und Rezensionen aus Zeitschriften, Festschriften, Kongreßberichten, Jahrbüchern, Sammelbänden und kritischen Berichten musikalischer Editionen berücksichtigt. In der vorliegenden Datei sind die GND-IDs (Tu1) und die zugehörigen BMS-IDs von Musikwerken verzeichnet, zu denen Literatur in der BMS nachgewiesen sind. | The Bibliographie des Musikschrifttums (BMS online) lists international, scholarly publications on music. Books, essays and reviews from journals, festschrifts, proceedings, yearbooks, anthologies and critical reports of musical editions are taken into account. This file contains the GND-IDs (Tu1) and the corresponding BMS-IDs of musical works for which literature is indexed in the BMS.			
-#TIMESTAMP: 2026-03-16
+#TIMESTAMP: 2026-03-23
 #UPDATE: weekly
 
 
@@ -70,6 +70,7 @@
 301028079||008676364
 1213378176||008674744
 1043476466||00867471X
+300546769||008666709
 300378149||008650691
 1160002886||008650039
 300452438||008650012
@@ -1434,6 +1435,7 @@
 1097612333||006468454
 300891172||006467970
 300271956||006467962
+300927568||006467946
 300891156||00646792X
 300299303||006467687
 4842212-5||006467342
