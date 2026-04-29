@@ -29,13 +29,17 @@ For more information about BEACON please visit [BEACON link dump format](https:/
 
 [template](https://github.com/musikforschung/bms_beacon/tree/main/template) Templates of the individual BEACON files.
 
+# Update
+
+* semi-annual
+
 # Author
 
 * René Wallor, wallor at sim.spk-berlin.de
 
 # Licence
 
-Copyright © 2022 Stiftung Preußischer Kulturbesitz - Staatliches Institut für Musikforschung
+Copyright © 2026 Stiftung Preußischer Kulturbesitz - Staatliches Institut für Musikforschung
 
 CC0 1.0 Universal
 
@@ -74,13 +78,17 @@ Weitere Informationen zu BEACON gibt es auf [BEACON link dump format](https://gb
 
 [template](https://github.com/musikforschung/bms_beacon/tree/main/template) Vorlagen der einzelnen BEACON-Dateien.
 
+# Aktualisierung
+
+* halbjährlich
+
 # Autor
 
 * René Wallor, wallor at sim.spk-berlin.de
 
 # Lizenz
 
-Copyright © 2022 Stiftung Preußischer Kulturbesitz - Staatliches Institut für Musikforschung
+Copyright © 2026 Stiftung Preußischer Kulturbesitz - Staatliches Institut für Musikforschung
 
 CC0 1.0 Universal
 
