@@ -8,7 +8,7 @@
 #NAME: Bibliographie des Musikschrifttums BMS online												
 #MESSAGE: Publikationen über (Bauwerk) in der Bibliographie des Musikschrifttums | Publications about (building) in the Bibliographie des Musikschrifttums											
 #DESCRIPTION: Die Bibliographie des Musikschrifttums (BMS online) verzeichnet internationale, wissenschaftliche Publikationen zur Musik. Dabei werden Bücher, Aufsätze und Rezensionen aus Zeitschriften, Festschriften, Kongreßberichten, Jahrbüchern, Sammelbänden und kritischen Berichten musikalischer Editionen berücksichtigt. In der vorliegenden Datei sind die GND-IDs (Tg1) und die zugehörigen BMS-IDs von Bauwerken verzeichnet, zu denen Literatur in der BMS nachgewiesen sind. | The Bibliographie des Musikschrifttums (BMS online) lists international, scholarly publications on music. Books, essays and reviews from journals, festschrifts, proceedings, yearbooks, anthologies and critical reports of musical editions are taken into account. This file contains the GND-IDs (Tg1) and the corresponding BMS-IDs of buildings for which literature is indexed in the BMS.			
-#TIMESTAMP: 2026-04-29
+#TIMESTAMP: 2026-08-11
 #UPDATE: semi-annual
 
 
@@ -58,6 +58,7 @@
 4798453-3||00913297X
 7657438-6||009132953
 1046882341||009132929
+1035528215||009132600
 4480549-4||009128034
 1356081703||009127798
 4201076-7||009123806
@@ -594,6 +595,7 @@
 4256398-7||005031176
 4123332-3||005015480
 4069201-2||005006708
+4288153-5||004999657
 4212398-7||004999282
 4430157-1||004998820
 4122000-6||004998553

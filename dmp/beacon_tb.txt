@@ -8,7 +8,7 @@
 #NAME: Bibliographie des Musikschrifttums BMS online												
 #MESSAGE: Publikationen über (Name Musikgruppe/Musikensemble) in der Bibliographie des Musikschrifttums | Publications about (music group/ensemble) in the Bibliographie des Musikschrifttums											
 #DESCRIPTION: Die Bibliographie des Musikschrifttums (BMS online) verzeichnet internationale, wissenschaftliche Publikationen zur Musik. Dabei werden Bücher, Aufsätze und Rezensionen aus Zeitschriften, Festschriften, Kongreßberichten, Jahrbüchern, Sammelbänden und kritischen Berichten musikalischer Editionen berücksichtigt. In der vorliegenden Datei sind die GND-IDs (Tb1) und die zugehörigen BMS-IDs von Musikgruppen und Musikensembles verzeichnet, zu denen Literatur in der BMS nachgewiesen sind. | The Bibliographie des Musikschrifttums (BMS online) lists international, scholarly publications on music. Books, essays and reviews from journals, festschrifts, proceedings, yearbooks, anthologies and critical reports of musical editions are taken into account. This file contains the GND-IDs (Tb1) and the corresponding BMS-IDs of music groups and music ensembles for which literature is indexed in the BMS.			
-#TIMESTAMP: 2026-04-29
+#TIMESTAMP: 2026-08-11
 #UPDATE: semi-annual
 
 
@@ -158,6 +158,7 @@
 125466761X||008032327
 1233061380||008006245
 10280450-3||008003270
+5101911-5||007991126
 10142796-7||007990979
 1186984309||007982127
 1250016290||007979487
@@ -179,6 +180,7 @@
 5319993-5||007825749
 10280352-3||007825463
 3024898-X||007825447
+4461490-1||007824653
 16018086-7||007820623
 10039216-7||007819609
 10004514-5||007819404
@@ -332,6 +334,7 @@
 6514268-8||006361358
 10304876-5||006358780
 3054694-1||006355714
+1085906329||006354599
 113805299X||006352642
 16158692-2||006346146
 10276319-7||006341179
@@ -475,6 +478,7 @@
 5559106-1||005321972
 802060-7||005315549
 16026639-7||005310210
+16084938-X||005308291
 803757-7||005300975
 10190779-5||005300851
 104565163X||005300754
@@ -639,6 +643,7 @@
 5568463-4||004699424
 5112189-X||004699327
 5232504-0||004699254
+5042099-9||004698398
 5066867-5||004698347
 10279724-9||004697723
 1091679-9||004696549
@@ -762,6 +767,7 @@
 6051717-7||003846113
 5050564-6||003843068
 5169881-X||003841103
+5254018-2||003824934
 5065506-1||00381565X
 3062528-2||003793184
 10308615-8||003792951
@@ -803,6 +809,7 @@
 10045074-X||003164136
 7653012-7||003158861
 7653010-3||003154645
+1097222-5||003143058
 1002503-0||003122557
 10347253-8||003121852
 1212778-4||003105784
@@ -871,4 +878,5 @@
 1022253-4||002324156
 2085343-9||002302993
 10279868-0||002257122
+7578524-9||002256509
 800577-1||002246376
